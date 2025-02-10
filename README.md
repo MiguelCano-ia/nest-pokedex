@@ -26,7 +26,7 @@ docker compose up -d
 5. Execute seed
 
 ```
-localhost:3000/api/v2/pokemon/pikachu
+localhost:3000/api/v2/seed
 ```
 
 ## Stack used
